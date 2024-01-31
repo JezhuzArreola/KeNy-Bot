@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&color=000000&background=FFF51EA9&vCenter=true&random=false&width=435&lines=%E2%99%AB%E2%98%BCBIENVENIDO+AL+REPOSITORIO+DE%E2%98%BC%E2%99%AB;%E2%98%BC%E2%98%BC%E2%98%BC%E2%98%BC+KENY-BOT++%E2%98%BC%E2%98%BC%E2%98%BC%E2%98%BC"  height="90px"></a> 
+<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&color=000000&background=FFF51EA9&vCenter=true&random=false&width=435&lines=BIENVENIDO+A+MI+REPOSITORIO+JEZHUZ+ARREOLA+DEV"  height="50px"></a> 
 </p>
  
 <p/>
