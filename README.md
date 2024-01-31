@@ -1,11 +1,7 @@
- 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=DarkSideMoon13&color=brightgreen" />
-<p/>
-<p align="center">
-<a href="https://github.com/DarkSideMoon13"><img title="Author" \n src="https://img.shields.io/badge/KeNy_Bot-Blue?style=social&logo=whatsapp&logoColor=black&label=Dev&labelColor=black&color=black&link=https%3A%2F%2Fapi.whatsapp.com%2Fsend%2F%3Fphone%3D%252B529621630601%26text%26type%3Dphone_number%26app_absent%3D0
-?style=flat&logo=whatsapp&logoColor=%23ffffffff&link=center
-"></a>
+<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFF51EA9&random=false&width=435&lines=BIENVENIDO+AL+REPOSITORIO+DE;KENY-BOT+" alt="Typing SVG"  height="90px"></a> 
+</p>
+ 
 <p/>
 <p align="center">
 <a href="https://github.com/DarkSideMoon13?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/DarkSideMoon13?label=Followers&style=social"></a>
