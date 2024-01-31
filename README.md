@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFF51EA9&random=false&width=435&lines=BIENVENIDO+AL+REPOSITORIO+DE;KENY-BOT+" alt="Typing SVG"  height="90px"></a> 
+<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&color=000000&background=FFF51EA9&vCenter=true&random=false&width=435&lines=%E2%99%AB%E2%98%BCBIENVENIDO+AL+REPOSITORIO+DE%E2%98%BC%E2%99%AB;%E2%98%BC%E2%98%BC%E2%98%BC%E2%98%BC+KENY-BOT++%E2%98%BC%E2%98%BC%E2%98%BC%E2%98%BC"  height="90px"></a> 
 </p>
  
 <p/>
