@@ -1,45 +1,88 @@
-<p align="center"> 
-<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=5000&color=000000&background=FFF51EA9&vCenter=true&random=false&width=300&lines=BIENVENIDO+A+MI+REPOSITORIO"  height="50px"></a> 
+## KeNy-Bot ✨
+
+<p align="center">
+<img src="https://imgur.com/9PUeonC.jpg" alt="KeNy-Bot" width="200"/>
 </p>
 
- <div align="center">
+<a href="https://github.com/DarkSideMoon13/GokuBlackDarkBot"><img title="Stars" src="https://img.shields.io/github/stars/DarkSideMoon13/GokuBlackDarkBot?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/DarkSideMoon13/GokuBlackDarkBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DarkSideMoon13/GokuBlackDarkBot?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/CuriosityBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
-[![WhatsApp](https://img.shields.io/badge/Whatsapp_DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B529621630601&text&type=phone_number&app_absent=0)
 
+<a href="https://www.youtube.com/@TigresitoCazador">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://instagram.com/jezhuzarrs">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-<h3 align="center">WHATSAPP BOT</h3>
+### Ejemplo 
+En caso de duda, antes de instalar GokuBlackDarkBot, pruebe el bot aquí
+
+<a href="https://chat.whatsapp.com/K3mRnlUxiixL44wQrztTWJ">
+  <img src="https://img.shields.io/badge/GokuBlackDarkBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 ***
 
-Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el idioma que quiere usar
-
-- [x] Español
-- [x] Indonesia
-- [x] Inglés
-- [x] Portugués
-- [x] Árabe
-- [ ] Idiomas que vendrán después
-
+### `⚙️ AJUSTES ⚙️`
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/DarkSideMoon13/GokuBlackDarkBot/blob/main/config.js#L6)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/DarkSideMoon13/GokuBlackDarkBot/fork)
+- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/DarkSideMoon13/GokuBlackDarkBot/blob/main/package.json#L42)
 ***
-### TERMUX
-1. 
-```sh
-pkg upgrade -y && pkg update -y
-pkg install git -y
-pkg install nodejs -y
-pkg install ffmpeg -y
-pkg install imagemagick -y
-git clone https://github.com/DarkSideMoon13/KeNy-Bot
-cd KeNy-Bot
-npm i 
+
+#### INSTALACIÓN AUTOMÁTICA POR TERMUX
+> **Nota:** Comandos para instalar de forma automática en Termux  
+```bash
+termux-setup-storage
+```
+```bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/DarkSideMoon13/GokuBlackDarkBot/master/Nexus.sh | bash
+```
+
+#### ACTIVAR EN TERMUX
+> **Nota:** ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
+termux-setup-storage
+```
+
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+```
+
+```bash
+git clone https://github.com/DarkSideMoon13/GokuBlackDarkBot && cd GokuBlackDarkBot && yarn install && npm install
+```
+
+```bash
+ls
+```
+```bash
+npm update
+```
+
+```bash
 npm start
 ```
-### ACTUALIZACION AUTOMATICA DEL REPOSITORIO
-```sh
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/DarkSideMoon13/KeNy-bot/master/update.sh | bash
-```
-2. Esperar a que se inicie el bot...
-3. Escanea el código QR desde el segundo dispositivo. (ir a whatsapp > Dispositivos Vinculados > Vincular un dispositivo)
----------
 
+### `OBTENER OTRO CODIGO QR`
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd GokuBlackDarkBot
+> rm -rf sessions
+> npm start
+```
+
+### EDITOR & PROPIETARIO DEL BOT
+<a href="https://github.com/DarkSideMoon13"><img src="https://github.com/DarkSideMoon13.png" width="100" height="100" alt="Eder"/></a>
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
