@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['18723484855', 'Jezhuz Arreola', true],
-  ['529621630601']
+  ['529621630601', 'Jezhuz Arreola - Developer', true],
+  ['528771398742','JHOANMX - Asistente Creativo',true]
 ] //Numeros de owner 
 
 global.mods = [''] 
@@ -16,7 +16,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.fgmods.xyz': 'DRLg5kY7' //--- 100 de límite diario --- Regístrese en https://api.fgmods.xyz/
+  '': '' //--- 100 de límite diario --- Regístrese en https://api.fgmods.xyz/
 }
 
 // Sticker WM
