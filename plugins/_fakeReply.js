@@ -1,17 +1,17 @@
 
 import fetch from 'node-fetch';
 export async function before(m, { conn }) {
-   let pp = await this.profilePictureUrl(m.sender, 'image').catch(_ => 'https://i.ibb.co/1ZxrXKJ/avatar-contact.jpg');
+   let pp = await this.profilePictureUrl(m.sender, 'image').catch(_ => 'https://imgur.com/9PUeonC.jpg');
 
   // Respuesta con enlace de WhatsApp
   global.rpl = {
     contextInfo: {
       externalAdReply: {
         mediaUrl: bgp,
-        mediaType: 'VIDEO',
-        description: 'support group',
+        mediaType: '',
+        description: '',
         title: packname,
-        body: 'grupo de soporte',
+        body: '',
         thumbnailUrl: pp,
         sourceUrl: bgp
       }
@@ -23,10 +23,10 @@ export async function before(m, { conn }) {
     contextInfo: {
       externalAdReply: {
         mediaUrl: fgcanal,
-        mediaType: 'VIDEO',
-        description: 'canal del grupo',
+        mediaType: '',
+        description: '',
         title: packname,
-        body: 'Canal de FG98',
+        body: '',
         thumbnailUrl: pp,
         sourceUrl: fgcanal
       }
@@ -38,10 +38,10 @@ export async function before(m, { conn }) {
     contextInfo: {
       externalAdReply: {
         mediaUrl: fgpyp,
-        mediaType: 'VIDEO',
-        description: 'Donate',
-        title: 'PayPal',
-        body: 'ayuda a mantener el bot activo',
+        mediaType: '',
+        description: '',
+        title: '',
+        body: '',
         thumbnailUrl: pp,
         sourceUrl: fgpyp
       }
@@ -53,10 +53,10 @@ export async function before(m, { conn }) {
     contextInfo: {
       externalAdReply: {
         mediaUrl: fgig,
-        mediaType: 'VIDEO',
-        description: 'Sigueme por Instagram',
-        title: 'Instagram',
-        body: 'sigueme por Instagram',
+        mediaType: '',
+        description: '',
+        title: '',
+        body: '',
         thumbnailUrl: pp,
         sourceUrl: fgig
       }
@@ -69,10 +69,10 @@ export async function before(m, { conn }) {
       externalAdReply: {
         showAdAttribution: true,
         mediaUrl: fgyt,
-        mediaType: 'VIDEO',
-        description: 'Suscribete: ' + fgyt,
-        title: 'FG YouTube',
-        body: 'aprende a crear tus propios bots',
+        mediaType: '',
+        description: ': ' + fgyt,
+        title: '',
+        body: '',
         thumbnailUrl: pp,
         sourceUrl: fgyt
       }

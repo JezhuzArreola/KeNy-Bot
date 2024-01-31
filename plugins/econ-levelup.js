@@ -2,7 +2,7 @@
 import { canLevelUp, xpRange } from '../lib/levelling.js'
 let handler = async (m, { conn }) => {
 	let name = conn.getName(m.sender)
-  let pp = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://i.ibb.co/1ZxrXKJ/avatar-contact.jpg')
+  let pp = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://imgur.com/9PUeonC.jpg')
     let user = global.db.data.users[m.sender]
     if (!canLevelUp(user.level, user.exp, global.multiplier)) {
         let { min, xp, max } = xpRange(user.level, global.multiplier)
@@ -17,14 +17,14 @@ let handler = async (m, { conn }) => {
 *${max - user.exp} XP* ${mssg.fxp}
 `.trim()
 try {
-  let imgg = API('fgmods', '/api/maker/rank', {
+  let imgg = API('KeNy-Bot', '/api/maker/rank', {
     username: name,
     xp: user.exp - min,
     exp: xp,
     avatar: pp,
     level: user.level,
-    ranklog: 'https://i.ibb.co/7gfnyMw/gold.png',
-    background: 'https://i.ibb.co/CsNgBYw/qiyana.jpg'
+    ranklog: 'https://i.ebayimg.com/images/g/ISsAAOSwU0pkwAf3/s-l1600.webp',
+    background: 'https://imgur.com/zgjwLo7.jpg'
 }, 'apikey')
 
     conn.sendFile(m.chat, imgg, 'level.jpg', txt, m)

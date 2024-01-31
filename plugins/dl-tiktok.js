@@ -3,11 +3,11 @@ import fg from 'api-dylux'
 import fetch from 'node-fetch'
 let handler = async (m, { conn, text, args, usedPrefix, command }) => {
     
-        if (!args[0]) throw `✳️ ${mssg.noLink('TikTok')}\n\n 📌 ${mssg.example} : ${usedPrefix + command} https://vm.tiktok.com/ZMYG92bUh/`
+        if (!args[0]) throw `✳️ ${mssg.noLink('TikTok')}\n\n 📌 ${mssg.example} : ${usedPrefix + command} `
         if (!args[0].match(/tiktok/gi)) throw `❎ ${mssg.noLink('TikTok')}`
         m.react(rwait)
       try {
-        let res = await fetch(global.API('fgmods', '/api/downloader/tiktok2', { url: args[0] }, 'apikey'))
+        let res = await fetch(global.API('KeNy-Bot', '/api/downloader/tiktok2', { url: args[0] }, 'apikey'))
         let data = await res.json()
 
         if (data.result.video) {

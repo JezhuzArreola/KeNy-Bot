@@ -14,10 +14,10 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
 		let { title, dl_url, quality, size, sizeB } = yt
         let isLimit = limit * 1024 < sizeB 
 
-     await conn.loadingMsg(m.chat, '📥 Descargando', ` ${isLimit ? `≡  *FG YTDL 2*\n\n▢ *⚖️${mssg.size}*: ${size}\n▢ *🎞️${mssg.quality}*: ${quality}\n\n▢ _${mssg.limitdl}_ *+${limit} MB*` : '✅ Descarga Completada' }`, ["▬▭▭▭▭▭", "▬▬▭▭▭▭", "▬▬▬▭▭▭", "▬▬▬▬▭▭", "▬▬▬▬▬▭", "▬▬▬▬▬▬"], m)
+     await conn.loadingMsg(m.chat, '📥 Descargando', ` ${isLimit ? `≡  *KeNy YTDL 2*\n\n▢ *⚖️${mssg.size}*: ${size}\n▢ *🎞️${mssg.quality}*: ${quality}\n\n▢ _${mssg.limitdl}_ *+${limit} MB*` : '✅ Descarga Completada' }`, ["▬▭▭▭▭▭", "▬▬▭▭▭▭", "▬▬▬▭▭▭", "▬▬▬▬▭▭", "▬▬▬▬▬▭", "▬▬▬▬▬▬"], m)
      
 	  if(!isLimit) conn.sendFile(m.chat, dl_url, title + '.mp4', `
- ≡  *FG YTDL*
+ ≡  *KeNy YTDL*
   
 *📌${mssg.title}:* ${title}
 *🎞️${mssg.quality}:* ${quality}
@@ -32,10 +32,10 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
   
   let isLimit = limit * 1024 < sizeB 
  
-  await conn.loadingMsg(m.chat, '📥 Descargando', ` ${isLimit ? `≡  *FG YTDL 2*\n\n▢ *⚖️${mssg.size}*: ${size}\n▢ *🎞️${mssg.quality}*: ${quality}\n\n▢ _${mssg.limitdl}_ *+${limit} MB*` : '✅ Descarga Completada' }`, ["▬▭▭▭▭▭", "▬▬▭▭▭▭", "▬▬▬▭▭▭", "▬▬▬▬▭▭", "▬▬▬▬▬▭", "▬▬▬▬▬▬"], m)
+  await conn.loadingMsg(m.chat, '📥 Descargando', ` ${isLimit ? `≡  *KeNy YTDL 2*\n\n▢ *⚖️${mssg.size}*: ${size}\n▢ *🎞️${mssg.quality}*: ${quality}\n\n▢ _${mssg.limitdl}_ *+${limit} MB*` : '✅ Descarga Completada' }`, ["▬▭▭▭▭▭", "▬▬▭▭▭▭", "▬▬▬▭▭▭", "▬▬▬▬▭▭", "▬▬▬▬▬▭", "▬▬▬▬▬▬"], m)
 	  
 if(!isLimit) conn.sendFile(m.chat, dl_url, title + '.mp3', `
- ≡  *FG YTDL 2*
+ ≡  *KeNy YTDL 2*
   
 ▢ *📌${mssg.title}* : ${title}
 *🎞️${mssg.quality}:* ${quality}

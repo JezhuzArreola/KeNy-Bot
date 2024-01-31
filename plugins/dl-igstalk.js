@@ -2,7 +2,7 @@
 import fg from 'api-dylux'
 let handler= async (m, { conn, args, text, usedPrefix, command }) => {
 	
-    if (!args[0]) throw `✳️ ${mssg.noUsername}\n\n📌${mssg.example} : ${usedPrefix + command} fg98_ff` 
+    if (!args[0]) throw `✳️ ${mssg.noUsername}\n\n📌${mssg.example} : ${usedPrefix + command} jezhuzarrs` 
     try {
     let res = await fg.igStalk(args[0])
     let te = `

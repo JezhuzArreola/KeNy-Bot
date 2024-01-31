@@ -19,13 +19,13 @@ let handler = async (m, { conn, args }) => {
   let query = args[0] ? args[0] : pickuser
   
   try { 
-  	let res = await fetch(global.API('fgmods', '/api/img/asupan-tt', { username: query }, 'apikey'))
+  	let res = await fetch(global.API('KeNy-Bot', '/api/img/asupan-tt', { username: query }, 'apikey'))
      let video = await res.json()
      conn.sendFile(m.chat, video.result, 'vid.mp4', `✅ ${mssg.result}`, m) 
      m.react(dmoji)
      
   	 } catch (error) {
-     let img = await conn.getFile(global.API('fgmods', '/api/img/asupan-la', { }, 'apikey'))
+     let img = await conn.getFile(global.API('KeNy-Bot', '/api/img/asupan-la', { }, 'apikey'))
     let asupan = img.data
     conn.sendFile(m.chat, asupan, 'vid.mp4', `✅ ${mssg.result}`, m)
     m.react('🤓')
