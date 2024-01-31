@@ -4,9 +4,9 @@
 <img src="https://imgur.com/9PUeonC.jpg" alt="KeNy-Bot" width="200"/>
 </p>
 
-<a href="https://github.com/DarkSideMoon13/GokuBlackDarkBot"><img title="Stars" src="https://img.shields.io/github/stars/DarkSideMoon13/GokuBlackDarkBot?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/DarkSideMoon13/GokuBlackDarkBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DarkSideMoon13/GokuBlackDarkBot?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/CuriosityBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+<a href="https://github.com/DarkSideMoon13/KeNy-Bot"><img title="Stars" src="https://img.shields.io/github/stars/DarkSideMoon13/KeNy-Bot?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/DarkSideMoon13/KeNy-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DarkSideMoon13/KeNy-Bot?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/DarkSideMoon13/KeNy-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DarkSideMoon13/KeNy-Bot?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
 <a href="https://www.youtube.com/@TigresitoCazador">
