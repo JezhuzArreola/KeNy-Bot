@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=DarkSideMoon13&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/DarkSideMoon13"><img title="Author" src="https://img.shields.io/badge/KeNy_Bot-Blue?style=social&logo=whatsapp&logoColor=black&label=Dev&labelColor=black&color=black&link=https%3A%2F%2Fapi.whatsapp.com%2Fsend%2F%3Fphone%3D%252B529621630601%26text%26type%3Dphone_number%26app_absent%3D0
+<a href="https://github.com/DarkSideMoon13"><img title="Author" \n src="https://img.shields.io/badge/KeNy_Bot-Blue?style=social&logo=whatsapp&logoColor=black&label=Dev&labelColor=black&color=black&link=https%3A%2F%2Fapi.whatsapp.com%2Fsend%2F%3Fphone%3D%252B529621630601%26text%26type%3Dphone_number%26app_absent%3D0
 ?style=flat&logo=whatsapp&logoColor=%23ffffffff&link=center
 "></a>
 <p/>
