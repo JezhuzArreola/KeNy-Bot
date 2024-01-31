@@ -4,7 +4,7 @@
 
  <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B529621630601&text&type=phone_number&app_absent=0)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp_DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B529621630601&text&type=phone_number&app_absent=0)
 
 
 <h3 align="center">WHATSAPP BOT</h3>
