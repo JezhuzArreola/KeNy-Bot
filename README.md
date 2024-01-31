@@ -24,18 +24,19 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 ### TERMUX
 1. 
 ```sh
-$ pkg upgrade -y && pkg update -y
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/DarkSideMoon13/KeNy-Bot
-$ cd senna-bot
-$ npm i 
-$ npm start
+pkg upgrade -y && pkg update -y
+pkg install git -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+pkg install imagemagick -y
+git clone https://github.com/DarkSideMoon13/KeNy-Bot
+cd KeNy-Bot
+npm i 
+npm start
 ```
+### ACTUALIZACION AUTOMATICA DEL REPOSITORIO
 ```sh
-$grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/DarkSideMoon13/KeNy-bot/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/DarkSideMoon13/KeNy-bot/master/update.sh | bash
 ```
 2. Esperar a que se inicie el bot...
 3. Escanea el código QR desde el segundo dispositivo. (ir a whatsapp > Dispositivos Vinculados > Vincular un dispositivo)
