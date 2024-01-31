@@ -1,15 +1,10 @@
 <p align="center"> 
 <a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=5000&color=000000&background=FFF51EA9&vCenter=true&random=false&width=300&lines=BIENVENIDO+A+MI+REPOSITORIO"  height="50px"></a> 
 </p>
- 
-<p/>
-<p align="center">
-<a href="https://github.com/DarkSideMoon13?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/DarkSideMoon13?label=Followers&style=social"></a>
-<a href="https://github.com/DarkSideMoon13/KeNy-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DarkSideMoon13/KeNy-bot?&style=social"></a>
-<a href="https://github.com/DarkSideMoon13/KeNy-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/DarkSideMoon13/KeNy-bot?style=social"></a>
-<a href="https://github.com/DarkSideMoon13/KeNy-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DarkSideMoon13/KeNy-bot?label=Watching&style=social"></a>
-</p>
 
+ <div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B529621630601&text&type=phone_number&app_absent=0)
 
 
 <h3 align="center">WHATSAPP BOT</h3>
