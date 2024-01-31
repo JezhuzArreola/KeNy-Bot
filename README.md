@@ -42,6 +42,9 @@ $ cd senna-bot
 $ npm i 
 $ npm start
 ```
+```sh
+$grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/DarkSideMoon13/KeNy-bot/master/update.sh | bash
+```
 2. Esperar a que se inicie el bot...
 3. Escanea el código QR desde el segundo dispositivo. (ir a whatsapp > Dispositivos Vinculados > Vincular un dispositivo)
 ---------
