@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&color=000000&background=FFF51EA9&vCenter=true&random=false&width=435&lines=BIENVENIDO+A+MI+REPOSITORIO&center_align"  height="50px"></a> 
+<a href="https://github.com/DarkSideMoon13"><img src="https://readme-typing-svg.herokuapp.com?label_center&font=Fira+Code&weight=200&duration=2000&color=000000&background=FFF51EA9&vCenter=true&random=false&width=435&lines=BIENVENIDO+A+MI+REPOSITORIO&"  height="50px"></a> 
 </p>
  
 <p/>
