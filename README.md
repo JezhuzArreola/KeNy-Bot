@@ -9,7 +9,7 @@
 <a href="https://github.com/DarkSideMoon13/KeNy-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DarkSideMoon13/KeNy-Bot?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/@KeNy_Dev">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://instagram.com/jezhuzarrs">
